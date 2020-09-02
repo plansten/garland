@@ -1,0 +1,20 @@
+.circle{
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    float: left;
+    transition: 0.3s;
+}
+
+
+#knopka{
+    color: red;
+    border-color: red;
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    margin: 400px 0px 0px 30px;
+}
